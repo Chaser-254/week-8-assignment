@@ -25,5 +25,3 @@ This project implements a complete database management system for a library. It 
 
 ## Entity-Relationship Diagram (ERD)
 ![ERD Diagram](image.png) 
-
-Replace `link_to_your_erd_screenshot` with the actual link or path to your ERD image.
